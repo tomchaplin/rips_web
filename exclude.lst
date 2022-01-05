@@ -1,0 +1,2 @@
+resources/public/js/compiled/manifest.edn
+resources/public/js/compiled/cljs-runtime/*
